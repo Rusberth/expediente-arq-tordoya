@@ -16,7 +16,7 @@
 classDiagram
     direction LR
 
-    note "Integradora Variante B — Parqueo Torre Central — Autor: <Jharol Rusberth Tordoya Sejas>"
+    note "Integradora Variante B — Parqueo Torre Central Autor: Jharol Rusberth Tordoya Sejas"
 
     class Usuario {
         +id
